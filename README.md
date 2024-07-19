@@ -1,7 +1,4 @@
-
 Soil Data Analysis
-
-Description
 
 This Jupyter notebook is dedicated to the analysis of soil moisture and temperature data from the DMP Arapahoe Ridge site. It includes data loading, preprocessing, visualization, and normalization steps. The code also implements various methods for cleaning the data, such as spike removal and applying a rolling median filter. Additionally, the notebook demonstrates visualization techniques for better understanding of the raw and processed data.
 
