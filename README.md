@@ -1,4 +1,3 @@
-Here is a README file for your Jupyter notebook code, which handles soil data analysis:
 
 Soil Data Analysis
 
